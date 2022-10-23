@@ -11,3 +11,4 @@ Bu sayfada bir sistem yöneticisinin bilmesi gerekli tüm bilgiler yer alacaktı
 # Temel Linux Komutları
 
 # TCP/IP
+11
